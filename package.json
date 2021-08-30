@@ -1,0 +1,25 @@
+{
+  "name": "our-balls-js",
+  "version": "1.0.0",
+  "description": "balls, need i say more?",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo 'Deez Nuts, lmao'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LePichu/Our-Balls-JS.git"
+  },
+  "keywords": [
+    "balls"
+  ],
+  "author": "LePichu",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/LePichu/Our-Balls-JS/issues"
+  },
+  "homepage": "https://github.com/LePichu/Our-Balls-JS#readme",
+  "dependencies": {
+    "babylonjs": "^4.2.0"
+  }
+}
